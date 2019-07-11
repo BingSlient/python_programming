@@ -1,4 +1,8 @@
 def trim(s):
+    """
+    Trim spaces at the start or end of a string s and then return s after 
+    removing beginning and trailing sapces.
+    """
     if not s:    # if string s is empty, return s
         return s
     start = 0
