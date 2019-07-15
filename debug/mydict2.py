@@ -1,3 +1,5 @@
+"""Learn how to use doctest to test a simple class Dict
+"""
 # mydict2.py
 class Dict(dict):
     '''
